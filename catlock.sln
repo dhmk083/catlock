@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "catlock", "catlock\catlock.csproj", "{7C03A031-3F70-40D8-A2CB-4DEA2E3A563E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C03A031-3F70-40D8-A2CB-4DEA2E3A563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C03A031-3F70-40D8-A2CB-4DEA2E3A563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C03A031-3F70-40D8-A2CB-4DEA2E3A563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C03A031-3F70-40D8-A2CB-4DEA2E3A563E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CD847D-F6D8-4758-9078-4FF84C4A830F}
+	EndGlobalSection
+EndGlobal
